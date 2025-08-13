@@ -8,6 +8,4 @@ Currently adds:
 2 new Booster Packs.
 and 4 new Enhancements.
 
-Currently version 1.0.0
-
 Hope you enjoy!

@@ -7,6 +7,6 @@ Currently adds:
 22 new Consumables, and a new consumable type, Mixotic.
 3 new Booster Packs.
 5 new Seals
-and 4 new Enhancements.
+and 5 new Enhancements.
 
 Hope you enjoy!

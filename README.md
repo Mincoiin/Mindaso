@@ -3,10 +3,12 @@ A Balatro mod that adds new things to the game, not meant to be taken seriously 
 
 Currently adds:
 
-55 new Jokers, 6 of which being legendary.
-23 new Consumables, and a new consumable type, Mixotic.
-3 new Booster Packs.
-5 new Seals
-and 5 new Enhancements.
+70 new Jokers, 7 of which being legendary.
+30 new Consumables, and a new consumable type, Mixotic.
+4 new Booster Packs.
+5 new Seals.
+3 new Sounds.
+3 new Editions.
+and 6 new Enhancements.
 
 Hope you enjoy!

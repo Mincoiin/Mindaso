@@ -9,6 +9,7 @@ Currently adds:
 5 new Seals.
 3 new Sounds.
 4 new Editions.
-and 10 new Enhancements.
+10 new Enhancements.
+and 10 new Decks.
 
 Hope you enjoy!
